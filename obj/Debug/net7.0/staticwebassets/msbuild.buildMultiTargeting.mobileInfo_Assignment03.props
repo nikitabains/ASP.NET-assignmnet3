@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\mobileInfo_Assignment03.props" />
+</Project>

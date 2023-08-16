@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\mobileInfo_Assignment03.props" />
+</Project>
